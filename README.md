@@ -22,13 +22,11 @@ This dashboard is designed to monitor and analyze project performance across bus
   <br>從 OLTP 擷取資料
 - Ingest raw data into the ODS (staging layer)
   <br>將原始資料暫存至 ODS
-
 #### Transform
 - Perform data cleaning and transformation
   <br>進行資料清理與轉換
 - Standardize data formats and ensure data consistency
   <br>標準化資料格式並確保資料一致性  
-
 #### Load
 - Load processed data into the data warehouse
   <br>將處理後的資料載入資料倉儲
