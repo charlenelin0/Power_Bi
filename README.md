@@ -1,7 +1,7 @@
 # Project Achievement Tracking Dashboard
 This dashboard is designed to monitor and analyze project performance across business lines, helping stakeholders quickly identify gaps between actual performance and targets.
 <br>
-本儀表板用於監控與分析各業務線的專案績效，協助主管快速辨識實際表現與目標之間的差距。
+本儀表板用於監控與分析各事業線的專案績效，協助主管快速辨識實際表現與目標之間的差距。
 
 ## Business Requirements (From Stakeholders)
 - Enable up-to-date project performance monitoring
@@ -9,9 +9,9 @@ This dashboard is designed to monitor and analyze project performance across bus
 - Support management in tracking performance against annual targets
   <br>協助管理層追蹤專案績效是否達成年度目標
 - Enable deeper insights into performance across business lines
-  <br>深入分析各業務線的績效表現
+  <br>深入分析各事業線的績效表現
 - Provide clear visibility into potential risks and performance issues to enable early action
-  <br>提供對潛在風險與績效問題的清晰可視性，以便及早採取行動
+  <br>以視覺化方式呈現，迅速辨識對潛在風險與績效問題，以便及早採取行動
 
 ## Design Steps
 
@@ -35,7 +35,7 @@ This dashboard is designed to monitor and analyze project performance across bus
 - Design reusable data marts based on business requirements
   <br>根據業務需求設計可重複使用的資料集市
 - Flatten dimensional data into wide tables to support analytical queries
-  <br>將維度模型資料展平成大寬表，以支援分析查詢
+  <br>依據 OLAP 視覺化分析需求，將維度模型資料展平成寬表，以提升查詢效率
 
 ---
 
@@ -43,15 +43,15 @@ This dashboard is designed to monitor and analyze project performance across bus
 
 #### What (Overview)
 - Provide a high-level view of overall performance using key KPIs (Rev, GM, JHR)
-  <br>透過關鍵指標（Rev、GM、JHR）提供整體績效的高層次視圖
+  <br>透過關鍵指標快速掌握整體績效表現
 
-#### How (Trend Analysis) 
+#### How & Where (Trend Analysis) 
 - Analyze how performance evolves over time and identify gaps between actual and target
-  <br>分析績效隨時間的變化，並找出實際表現與目標之間的落差
+  <br>以時間與事業線雙面向進行分析，快速找出績效落差的來源
 
-#### Where (Drill-down Analysis)
+#### Why (Drill-down Analysis)
 - Enable detailed analysis across business lines to locate performance issues and risk areas
-  <br>透過各業務線進行細部分析，以定位績效問題與潛在風險區域
+  <br>透過各事業線或專案進行深入分析，以找出績效問題的根本原因
 
 ---
 
@@ -64,11 +64,11 @@ This dashboard is designed to monitor and analyze project performance across bus
   <br>監控關鍵績效指標 
 <img width="1414" height="836" alt="image" src="https://github.com/user-attachments/assets/bfec9f15-e519-4c11-8dd8-b06943f92c83" />
 
-### Breakdown (How)
+### Breakdown (How & Where)
 - Analyze performance across different business dimensions
   <br>分析各事業線的績效表現  
 - Identify which areas contribute to performance gaps
-  <br>識別哪些月份/事業線造成績效落差
+  <br>顯示哪些月份或事業線造成績效落差
 <img width="1428" height="842" alt="image" src="https://github.com/user-attachments/assets/82b60d6d-0acd-4ebf-86a3-f200b9e7d53c" />
 
 ### Insight (Why)
