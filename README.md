@@ -80,4 +80,5 @@ This dashboard is designed to monitor and analyze project performance across bus
 
 ## Tools
 - MSSQL (Stored Procedures for ETL processing)
+- Power Query & DAX (Data transformation and KPI calculation)
 - Power BI (Dashboard design and data visualization)
