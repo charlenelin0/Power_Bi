@@ -37,7 +37,7 @@ This dashboard is designed to monitor and analyze project performance across bus
 
 ---
 
-### 2. Dashboard Design
+### 2. Dashboard Design Structures
 
 #### What (Overview)
 - Provide a high-level view of overall performance using key KPIs (Rev, GM, JHR)
