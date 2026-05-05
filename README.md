@@ -53,7 +53,7 @@ This dashboard is designed to monitor and analyze project performance across bus
 
 ---
 
-### 3. Dashboard Preview  
+### 3. Dashboard Demo  
 
 ### Overall (What)
 - Evaluate whether current projects are meeting annual targets
