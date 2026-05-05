@@ -1,6 +1,6 @@
 # Project Achievement Tracking Dashboard
 This dashboard is designed to monitor and analyze project performance across business lines, helping stakeholders quickly identify gaps between actual performance and targets.
-<br><br>
+<br>
 本儀表板用於監控與分析各業務線的專案績效，協助主管快速辨識實際表現與目標之間的差距。
 
 ## Business Requirements (From Stakeholders)
