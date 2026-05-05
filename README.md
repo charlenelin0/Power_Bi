@@ -1,6 +1,6 @@
 # Project Achievement Tracking Dashboard
 
-- Target: Tracking Company's Project Achievement Rate
+This dashboard is designed to monitor and analyze project performance across different business dimensions, helping stakeholders quickly identify gaps between actual performance and targets.
 
 ## Overall
 <img width="1414" height="836" alt="image" src="https://github.com/user-attachments/assets/bfec9f15-e519-4c11-8dd8-b06943f92c83" />
