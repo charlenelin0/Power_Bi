@@ -31,7 +31,7 @@ This dashboard is designed to monitor and analyze project performance across bus
 
 #### Load
 - Load processed data into the data warehouse
-  <br>將處理後的資料載入資料倉儲 
+  <br>將處理後的資料載入資料倉儲
 - Design reusable data marts based on business requirements, separating fact and dimension tables to support a Star Schema
   <br>根據業務需求設計資料集市，區分事實表與維度表支援多維度分析
 - Flatten dimensional data into wide tables to support analytical queries
