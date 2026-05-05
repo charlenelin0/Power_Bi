@@ -1,4 +1,6 @@
-# Power_Bi
+# Project Achievement Tracking Dashboard
+
+- Target: Tracking Company's Project Achievement Rate
 
 ## Overall
 <img width="1414" height="836" alt="image" src="https://github.com/user-attachments/assets/bfec9f15-e519-4c11-8dd8-b06943f92c83" />
