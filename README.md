@@ -19,9 +19,9 @@ This dashboard is designed to monitor and analyze project performance across bus
 
 #### Extract
 - Extract data from OLTP systems (multiple data sources)
-  <br>從 OLTP 系統擷取資料
+  <br>從 OLTP 擷取資料
 - Ingest raw data into the ODS (staging layer)
-  <br>將原始資料匯入 ODS（暫存層）
+  <br>將原始資料暫存至 ODS
 
 #### Transform
 - Perform data cleaning and transformation
