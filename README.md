@@ -15,7 +15,7 @@ This dashboard is designed to monitor and analyze project performance across bus
 
 ## Design Steps
 
-### 1. ETL Processing (SQL Stored Procedures)
+### 1. ETL Processing
 
 #### Extract
 - Extract data from OLTP systems (multiple data sources)
@@ -77,3 +77,7 @@ This dashboard is designed to monitor and analyze project performance across bus
 - Support root cause analysis and decision-making
   <br>支援根本原因分析與決策制定
 <img width="1439" height="850" alt="image" src="https://github.com/user-attachments/assets/71cf91fa-75a9-496e-9e28-a13b9bb74134" />
+
+## Tools
+- MSSQL (Stored Procedures for ETL processing)
+- Power BI (Dashboard design and data visualization)
