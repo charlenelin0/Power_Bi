@@ -2,7 +2,7 @@
 
 This dashboard is designed to monitor and analyze project performance across business lines, helping stakeholders quickly identify gaps between actual performance and targets.
 
-Metrics Kpi:
+Metrics KPI:
 - Revenue (Rev)
 - Gross Margin (GM)
 - Job Hours Revenue (JHR)
