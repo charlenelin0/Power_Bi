@@ -35,7 +35,7 @@ This dashboard is designed to monitor and analyze project performance across bus
 - Design reusable data marts based on business requirements, separating fact and dimension tables to support a Star Schema
   <br>根據業務需求設計資料集市，區分事實表與維度表支援多維度分析
 - Flatten dimensional data into wide tables to support analytical queries
-  <br>依據 OLAP 視覺化分析需求，將維度模型資料展平成寬表，以提升查詢效率
+  <br>依據視覺化分析需求，將維度模型資料展平成寬表，以提升查詢效率
 
 ---
 
