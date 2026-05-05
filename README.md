@@ -61,15 +61,17 @@ This dashboard is designed to monitor and analyze project performance across bus
 - Evaluate whether current projects are meeting annual targets
   <br>評估是否達成年度目標 
 - Monitor key KPIs such as Revenue (Rev), Gross Margin (GM), and JHR
-  <br>監控關鍵績效指標 
-<img width="1414" height="836" alt="image" src="https://github.com/user-attachments/assets/bfec9f15-e519-4c11-8dd8-b06943f92c83" />
+  <br>監控關鍵績效指標
+  
+https://github.com/user-attachments/assets/5361865a-e492-4cbb-8905-0c92ba9df87a
 
 ### Breakdown (How & Where)
 - Analyze performance across different business dimensions
   <br>分析各事業線的績效表現  
 - Identify which areas contribute to performance gaps
   <br>顯示哪些月份或事業線造成績效落差
-<img width="1428" height="842" alt="image" src="https://github.com/user-attachments/assets/82b60d6d-0acd-4ebf-86a3-f200b9e7d53c" />
+
+https://github.com/user-attachments/assets/eef281cc-b537-4625-84c1-bba81df15f4b
 
 ### Insight (Why)
 - Highlight key drivers behind performance changes
