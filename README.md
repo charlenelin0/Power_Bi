@@ -45,9 +45,7 @@ This dashboard is designed to monitor and analyze project performance across bus
 - Enable detailed analysis across business lines to locate performance issues and risk areas
   <br>透過各事業線或專案進行深入分析，以找出績效問題的根本原因
 
----
-
-### 3. Dashboard Demo  
+## Demo  
 
 ### Overall (What)
 - Evaluate whether current projects are meeting annual targets
