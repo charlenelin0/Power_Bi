@@ -24,16 +24,12 @@ This dashboard is designed to monitor and analyze project performance across bus
   <br>將原始資料暫存至 ODS
 #### Transform
 - Perform data cleaning and transformation
-  <br>進行資料清理與轉換
-- Standardize data formats and ensure data consistency
-  <br>標準化資料格式並確保資料一致性  
+  <br>進行資料清理與轉換，處理時間格式與全形／半形字元不一致問題
 #### Load
 - Load processed data into the data warehouse
   <br>將處理後的資料載入資料倉儲
-- Design reusable data marts based on business requirements, separating fact and dimension tables to support a Star Schema
-  <br>根據業務需求設計資料集市，區分事實表與維度表支援多維度分析
-- Flatten dimensional data into wide tables to support analytical queries
-  <br>依據視覺化分析需求，將維度模型資料展平成寬表，以提升查詢效率
+- Design reusable data marts using Star Schema and wide tables to support analytical queries  
+  <br>根據分析報表需求設計資料集市，透過事實表／維度表與寬表支援快速查詢
 
 ---
 
